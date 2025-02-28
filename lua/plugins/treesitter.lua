@@ -9,7 +9,7 @@ return {
       "dockerfile",
       "html",
       "ini",
-      "jinja2",
+      "jinja",
       "json",
       "lua",
       "markdown",

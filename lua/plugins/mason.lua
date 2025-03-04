@@ -16,7 +16,8 @@ return {
         "jsonls",
         "lemminx", -- xml
         "lua_ls",
-        "remark_ls", -- markdown
+        -- "remark_ls", -- markdown NOT WORKING
+        "marksman", -- markdown
         "pyright",
         "superhtml",
         "yamlls",
